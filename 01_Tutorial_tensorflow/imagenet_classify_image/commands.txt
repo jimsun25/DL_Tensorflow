@@ -1,0 +1,33 @@
+python classify_image.py --image_file=./model/aaa.jpg
+
+python classify_image.py --image_file=./model/bbb.jpg
+
+python classify_image.py --image_file=./model/ccc.jpg
+
+python classify_image.py --image_file=./model/ddd.jpg
+
+python classify_image.py --image_file=./model/eee.jpg
+
+python classify_image.py --image_file=./model/fff.jpg
+
+python classify_image.py --image_file=./model/ggg.jpg
+
+python classify_image.py --image_file=./model/hhh.jpg
+
+python classify_image.py --image_file=./model/iii.jpg
+
+python classify_image.py --image_file=./model/jjj.jpg
+
+python classify_image.py --image_file=./model/kkk.jpg
+
+python classify_image.py --image_file=./model/lll.jpg
+
+python classify_image.py --image_file=./model/mmm.jpg
+
+python classify_image.py --image_file=./model/nnn.jpg
+
+python classify_image.py --image_file=./model/ooo.jpg
+
+python classify_image.py --image_file=./model/ppp.jpg
+
+
