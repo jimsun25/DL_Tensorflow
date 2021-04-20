@@ -1,0 +1,14 @@
+python flower_train_cnn.py
+
+python flower_train_cnn.py --eval=True
+
+python flower_test_cnn.py --image=./data_test/daisy.jpg
+
+python flower_test_cnn.py --image=./data_test/tulips.jpg
+
+python flower_test_cnn.py --image=./data_test/dandelion.jpg
+
+python flower_test_cnn.py --image=./data_test/roses.jpg
+
+python flower_test_cnn.py --image=./data_test/sunflowers.jpg
+
