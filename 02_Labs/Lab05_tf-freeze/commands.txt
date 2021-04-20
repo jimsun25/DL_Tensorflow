@@ -1,0 +1,8 @@
+
+python tiny_model.py
+
+python freeze.py --model_folder="results" --env="WIN"
+
+python load.py
+
+
